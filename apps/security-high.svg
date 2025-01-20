@@ -7,7 +7,7 @@
    viewBox="0 0 14.287499 16.933332"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="security-high.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,13 +26,15 @@
      inkscape:snap-object-midpoints="true"
      inkscape:zoom="8"
      inkscape:cx="29.625"
-     inkscape:cy="31.0625"
-     inkscape:window-width="1440"
-     inkscape:window-height="881"
-     inkscape:window-x="-4"
-     inkscape:window-y="-4"
+     inkscape:cy="31"
+     inkscape:window-width="1402"
+     inkscape:window-height="867"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1-3" />
+     inkscape:current-layer="layer1-3"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2" />
   <g
@@ -45,7 +47,7 @@
        id="layer1-3"
        transform="matrix(0.26458333,0,0,0.26458333,-103.66708,128.13063)">
       <path
-         style="opacity:1;fill:#8fa876;fill-opacity:1;stroke:#8fa876;stroke-width:2.80265;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:90.7465;stroke-opacity:1;paint-order:stroke fill markers"
+         style="opacity:1;fill:#91a666;fill-opacity:1;stroke:#91a666;stroke-width:2.80265;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:90.7465;stroke-opacity:1;paint-order:stroke fill markers"
          d="m 958.49641,231.46422 c -21.82895,-19.56094 -24.22952,-36.75794 -25.65385,-53.83616 9.78125,-0.14198 12.53747,-3.33117 14.38632,-7.25828 7.53212,0.57482 14.99652,0.56143 22.38599,-0.10296 1.76016,3.7177 3.43357,7.4725 14.42505,7.24339 -0.47344,18.42522 -4.00118,36.6831 -25.54351,53.95401 z"
          id="path1435"
          sodipodi:nodetypes="cccccc" />
