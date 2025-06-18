@@ -8,7 +8,10 @@
    height="64"
    viewBox="0 0 63.451775 63.999995"
    sodipodi:docname="accessories-calculator.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:export-filename="/home/itszariep/vid/res/img/accessories-calculator.png"
+   inkscape:export-xdpi="2880"
+   inkscape:export-ydpi="2880"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,13 +27,13 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      showgrid="false"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="18.73833"
-     inkscape:cy="34.471455"
-     inkscape:window-width="1440"
-     inkscape:window-height="881"
-     inkscape:window-x="-4"
-     inkscape:window-y="-4"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-4.5961941"
+     inkscape:cy="-0.70710679"
+     inkscape:window-width="1402"
+     inkscape:window-height="867"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="g8"
      inkscape:snap-bbox="false"
@@ -48,19 +51,24 @@
      inkscape:snap-object-midpoints="false"
      inkscape:snap-others="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-center="true">
+     inkscape:snap-center="true"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
        position="64.07207,-13.858639"
        orientation="0,-1"
-       id="guide1975" />
+       id="guide1975"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="64.07205,-23.088486"
        orientation="1,0"
-       id="guide2318" />
+       id="guide2318"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="64.072051,-13.85864"
        orientation="0,-1"
-       id="guide55342" />
+       id="guide55342"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <g
      inkscape:groupmode="layer"
@@ -152,7 +160,7 @@
     </g>
     <path
        id="path71455"
-       style="fill:#8fa876;stroke-width:3.26366;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#91a666;stroke-width:3.26366;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
        d="M 64.736916,45.167311 A 19.374701,19.615573 0 0 1 45.362215,64.782887 19.374701,19.615573 0 0 1 25.987513,45.167311 19.374701,19.615573 0 0 1 45.362215,25.551738 19.374701,19.615573 0 0 1 64.736916,45.167311 Z" />
     <g
        aria-label="="

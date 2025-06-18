@@ -8,7 +8,7 @@
    height="64.021156"
    viewBox="0 0 63.999997 64.021155"
    sodipodi:docname="preferences-desktop-theme-applications.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,17 +24,19 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      showgrid="false"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="15.202796"
-     inkscape:cy="22.892582"
-     inkscape:window-width="1440"
-     inkscape:window-height="881"
-     inkscape:window-x="-4"
-     inkscape:window-y="-4"
+     inkscape:zoom="7.9999999"
+     inkscape:cx="15.3125"
+     inkscape:cy="31.5"
+     inkscape:window-width="1434"
+     inkscape:window-height="867"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="g8"
      inkscape:snap-object-midpoints="true"
-     inkscape:object-nodes="true" />
+     inkscape:object-nodes="true"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
@@ -91,7 +93,7 @@
        cy="25.613882"
        r="2.3739254" />
     <circle
-       style="fill:#8fa876;fill-opacity:1;stroke:#8fa876;stroke-width:1.28327;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:90.7465;stroke-opacity:1;paint-order:stroke fill markers"
+       style="fill:#8fa876;fill-opacity:1;stroke:#91a666;stroke-width:1.28327;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:90.7465;stroke-opacity:1;paint-order:stroke fill markers"
        id="path1690"
        cx="22.907639"
        cy="36.087925"
@@ -105,7 +107,7 @@
        y="47.871582"
        ry="0.96571487" />
     <circle
-       style="fill:#8fa876;fill-opacity:1;stroke:#8fa876;stroke-width:3.20132;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:90.7465;stroke-opacity:1;paint-order:stroke fill markers"
+       style="fill:#91a666;fill-opacity:1;stroke:#91a666;stroke-width:3.20132;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:90.7465;stroke-opacity:1;paint-order:stroke fill markers"
        id="path1690-6"
        cx="56.317902"
        cy="50.137428"
